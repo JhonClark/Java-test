@@ -11,6 +11,7 @@ public class GuGu {
 		for(int i = 1; i < 10; i++) {
 			System.out.println(a + " X " + i + " = " + a * i);
 		}
+		System.out.println("Hello");
 		sc.close();
 
 	}
